@@ -1,0 +1,16 @@
+.content__item{
+    color: white;
+    margin-left: 50px;
+    padding: 10px 0px;
+    text-decoration: none;
+    transition: .25s
+}
+
+.correction{
+    padding: -10px 0px;
+}
+
+.content__item:hover{
+    color: grey;
+    transition: .25s
+}

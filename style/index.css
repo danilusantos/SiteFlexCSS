@@ -1,0 +1,50 @@
+/* Atoms */
+@import "./atoms/navigation-title.css";
+@import "./atoms/navigation-menu-list-item.css";
+@import "./atoms/footer-social-list-item.css";
+@import "./atoms/content-item.css";
+@import "./atoms/section2-item-button.css";
+@import "./atoms/section2-item.css";
+
+/* Molecules */
+@import "./molecules/navigation-menu-list.css";
+@import "./molecules/footer-description.css";
+@import "./molecules/footer-social-list.css";
+@import "./molecules/content.css";
+@import "./molecules/content-services.css";
+@import "./molecules/content-contact.css";
+@import "./molecules/content-about.css";
+@import "./molecules/section1.css";
+@import "./molecules/section2.css";
+@import "./molecules/section3.css";
+@import "./molecules/section1-title.css";
+@import "./molecules/section1-image.css";
+@import "./molecules/section2-list.css";
+
+/* Organisms */
+@import "./organisms/footer.css";
+@import "./organisms/main.css";
+@import "./organisms/navigation.css";
+
+body{
+    margin: 0;
+    height: auto;
+    padding: 0;
+    width: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.border{
+    border: 2px solid black;
+}
+
+.small{
+    width: 30px;
+    height: 30px;
+    padding: 0px 20px; 
+}
+
+.img-size{
+    width: 150px;
+    height: 150px;
+}

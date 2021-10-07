@@ -1,0 +1,26 @@
+.navigation__menu-list__item{
+    color: white;
+    display: flex;
+    font-size: 14pt;
+    margin: 0px 20px;
+    text-decoration: none;
+    padding: 0px 0px;
+    transition: .25s;
+}
+
+.navigation__menu-list__item:hover{
+    color: grey;
+    transition: .25s;
+}
+
+
+@media only screen and (max-width: 800px){
+
+    .navigation__menu-list__item{
+        color: white;
+        display: flex;
+        margin: 0px 20px;
+        font-size: 14pt;
+        padding-bottom: 10px;
+    }
+}

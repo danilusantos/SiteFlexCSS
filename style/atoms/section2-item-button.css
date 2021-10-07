@@ -1,0 +1,16 @@
+.section2__item__button{
+    padding: 10px;
+    font-size: 14pt;
+    border-radius: 30px;
+    border: 2px solid #EDAD64;
+    background-color: #99682F;
+    color: white;
+    transition: .25s;
+}
+
+.section2__item__button:hover{
+    background-color: white;
+    color: #99682F;
+    transition: .25s;
+    cursor: pointer;
+}

@@ -1,0 +1,7 @@
+.footer__description{
+    flex-direction: row;
+    flex-wrap: nowrap;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
